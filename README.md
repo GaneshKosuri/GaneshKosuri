@@ -2,10 +2,10 @@
 
 <h2>About me</h2>
 
+- 👨‍💻 I'm a Web Developer.
 - 🔭 I’m currently working on React JS, TypeScript and Tailwind CSS.
 - 🌱 I’m currently learning Next JS, Express JS and Flutter.
 - 💬 Ask me anything, I will be more than happy to help :)
-- ⚡ Fun fact: I'm a Web developer😄
 
 <h2>Tech Stack🚀</h2>
 
@@ -14,10 +14,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <h3>Languages</h3>
@@ -34,22 +32,8 @@
 
 <h2>Contact me on</h2>
 <br>
-<a href="https://twitter.com/anil_dev31"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anil-kumar-peddireddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:anil.peddireddyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/GaneshKosuri86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ganesh-kosuri-21441815a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ganeshkosuri9656@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 <br>
-
-<h2>GitHub Stats📈</h2>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsgiant&theme=dracula)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsgiant&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsgiant&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jsgiant&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=jsgiant&color=blueviolet)
