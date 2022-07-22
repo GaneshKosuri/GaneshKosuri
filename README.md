@@ -1,4 +1,4 @@
-<h1> Hola Amigos, this is Ganesh Kosuri</h1>
+<h1> Hola Amigos 👋, this is Ganesh Kosuri</h1>
 
 <h2>About me</h2>
 
