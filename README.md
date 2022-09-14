@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm a Web Developer.
 - 🔭 I’m currently working on React JS, TypeScript and Tailwind CSS.
-- 🌱 I’m currently learning Next JS, Express JS and Flutter.
+- 🌱 I’m currently learning Vue JS, Express JS and Flutter.
 - 💬 Ask me anything, I will be more than happy to help :)
 
 <h2>Tech Stack🚀</h2>
