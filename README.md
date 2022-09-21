@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 <a href="https://zeplin.io/">
-    <img src="https://img.shields.io/badge/zeplin-%23F24E1E.svg?style=for-the-badge&logo=zeplin&logoColor=white">
+    <img src="https://badges.aleen42.com/src/zeplin.svg">
 </a>
 
 <h2>Contact me on</h2>
