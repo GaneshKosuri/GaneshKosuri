@@ -60,11 +60,11 @@
 
 <h2>GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshKosuri&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshKosuri&theme=radical&show_icons=true" />
 
 <h2>Languages Used</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKosuri&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKosuri&theme=radical" />
 
 <h2>Contact me on</h2>
 <br>
