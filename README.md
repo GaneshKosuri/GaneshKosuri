@@ -14,6 +14,9 @@
 <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
 <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </a>
